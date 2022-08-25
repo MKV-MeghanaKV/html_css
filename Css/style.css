@@ -1,0 +1,72 @@
+h1{
+	font-family: 'Sacramento';
+}
+
+body
+{
+	font-family: Meeriweather;
+}
+
+
+
+.buttom-container
+{
+	background-color: #CEE5D0;
+	height: 665px;
+}
+
+
+.data
+{
+	text-decoration: underline;
+}
+.cloud
+{
+	position: relative;
+	left: 700px;
+	
+
+}
+.cloud1
+{
+	position: relative;
+	left: 200px;
+}
+.title
+{
+	position: relative;
+	left: 650px;
+	margin-bottom: 0px;
+	margin-top:0px ;
+}
+.title1
+{
+	position: relative;
+	left: 700px;
+	font-size: 20px;
+	margin-bottom: 0px;
+	margin-top:0px ;
+}
+.girl
+{
+	position: relative;
+	right: 150px;
+	buttom: 200px;
+}
+.grass
+{
+	position: relative;
+	buttom: 250px;
+	top: 50px;
+    right: 850px;
+    width: 500px;
+}
+.grassland
+{
+	position: absolute;
+}
+.fence
+{
+	position: relative;
+	buttom: 250px;
+}

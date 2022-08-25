@@ -1,0 +1,267 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"grass",
+				"grassland.png"
+			],
+			[
+				"im",
+				"images/"
+			],
+			[
+				"c",
+				"cloud.png"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"l",
+				"link"
+			],
+			[
+				"th",
+				"thead"
+			],
+			[
+				"red",
+				"orangered"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"li",
+				"link"
+			],
+			[
+				"border-",
+				"border-width"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"wh",
+				"white"
+			],
+			[
+				"t",
+				"td"
+			],
+			[
+				"p",
+				"Password"
+			],
+			[
+				"font",
+				"font-family"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/MEGHANA/OneDrive/Desktop/CSS-Mysite/index.html",
+		"/C/Users/MEGHANA/OneDrive/Desktop/CSS-Mysite/Css/style.css",
+		"/C/Users/MEGHANA/OneDrive/Desktop/CSS-Mysite/acadamics.html",
+		"/C/Users/MEGHANA/OneDrive/Desktop/Html@au/index.sublime-workspace",
+		"/C/Users/MEGHANA/OneDrive/Desktop/CSS-Mysite/Contact Details.html",
+		"/C/Users/MEGHANA/OneDrive/Desktop/CSS-Mysite/Css",
+		"/C/Users/MEGHANA/Downloads/CSS+-+Bacon+Fansite/CSS - Bacon Fansite/css/style.css",
+		"/C/Users/MEGHANA/Downloads/CSS+-+Bacon+Fansite/CSS - Bacon Fansite/index.html",
+		"/C/Users/MEGHANA/Downloads/CSS+-+Bacon+Fansite/CSS - Bacon Fansite/style.css",
+		"/C/Users/MEGHANA/Downloads/CSS+-+Bacon+Fansite.zip",
+		"/C/Users/MEGHANA/Downloads/CSS+-+Bacon+Fansite.sublime-workspace",
+		"/C/Users/MEGHANA/OneDrive/Desktop/Html@au/css",
+		"/C/Users/MEGHANA/OneDrive/Desktop/Html@au/mkvcrc.png",
+		"/C/Users/MEGHANA/OneDrive/Pictures/Mkv1.jpg",
+		"/C/Users/MEGHANA/OneDrive/Desktop/My Web page/index.html",
+		"/C/Users/MEGHANA/OneDrive/Desktop/meghanawebsite/index.html",
+		"/C/Users/MEGHANA/OneDrive/Desktop/meghanawebsite/css/styles.css",
+		"/C/Users/MEGHANA/OneDrive/Desktop/web app/index.html.html",
+		"/C/Users/MEGHANA/OneDrive/Desktop/web app/css/.DS_Store",
+		"/C/Users/MEGHANA/OneDrive/Desktop/meghanawebsite/images/cloud.png",
+		"/C/Users/MEGHANA/OneDrive/Desktop/meghanawebsite/images/computer.png",
+		"/C/Users/MEGHANA/OneDrive/Desktop/meghanawebsite/images/course.png",
+		"/C/Users/MEGHANA/OneDrive/Desktop/meghanawebsite/images/hi1.png",
+		"/C/Users/MEGHANA/OneDrive/Desktop/meghanawebsite/images/land.svg",
+		"/C/Users/MEGHANA/OneDrive/Desktop/Coffee Shop/javascript.html",
+		"/C/Users/MEGHANA/Downloads/Pushpak_Website-master.zip",
+		"/C/Users/MEGHANA/OneDrive/Desktop/Coffee Shop/contacts.html",
+		"/C/Users/MEGHANA/OneDrive/Desktop/Coffee Shop/product.html",
+		"/C/Users/MEGHANA/OneDrive/Desktop/Coffee Shop/coffeeshop.css"
+	],
+	"find":
+	{
+		"height": 31.2
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.2
+	},
+	"input":
+	{
+		"height": 44.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 59.2
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 180.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
